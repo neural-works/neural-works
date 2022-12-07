@@ -1,7 +1,15 @@
 * neural-works
 ** TODO site [0/3]
 *** TODO logo
-*** TODO layout
+*** TODO about
+At neural-works, we are a software development company that specializes in
+building cutting-edge solutions using the latest in artificial intelligence and
+functional programming technology. Our team of experts is skilled in using the
+Clojure and Clojurescript programming languages to create scalable, concurrent,
+and maintainable applications that deliver real value to our clients. Whether
+you need a custom software solution for your business, or you're looking for a
+partner to help you bring your vision to life, we're here to help. Contact us
+today to learn more about what we can do for you. 
 
 ** TODO services
 
